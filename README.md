@@ -1,10 +1,6 @@
-@snap
 
-# CI and CD pipline
-# API based application testing
-
-@snapend
-
-@snap
-# Where do we start? 
-@snapend
+# Continus ingetration testing
+# API based applications 
+---
+Where do we start? 
+---
