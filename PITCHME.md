@@ -13,9 +13,9 @@
 ---
 #### Test Scenario: reliability
 ![CI Component Test](template/img/CI_Components_Testing.png)
-### A system with 100 components each having 99% reliability
-### Would yield 37% reliable
-### Would you release?  
+##### A system with 100 components each having 99% reliability
+##### Would yield 37% reliable
+##### Would you release?  
 ---
 ## How do we ensure 100% 
 ---
