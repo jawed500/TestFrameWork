@@ -12,7 +12,7 @@
 5. Qaulity in every stage of the pipeline
 ---
 #### Test Scenario: reliability
-![CI Component Test](template/img/Component_Testing.png)
+![CI Component Test](template/img/Components_Testing.png)
 ---
 ![CI Framework](template/img/CI_Framework.png)
 ---
