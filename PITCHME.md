@@ -1,8 +1,15 @@
 ---
-## CI/CD pipeline
-### API based applications testing 
+## CI and CD pipeline
+### API based application testings
 ---
 ### Where do we start? 
+---
+## Setup goals:
+### Dedicated SDET in CI place
+### All product teams on board with CI processes
+### Team ownership not individuals 
+### Repeatable and disposable framework
+### Qaulity in every stage of the pipeline
 ---
 
 ![TIP](template/img/tip.png)
