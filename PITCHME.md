@@ -1,10 +1,9 @@
 ---
 ## CI/CD pipeline
-## API based applications testing 
+### API based applications testing 
 ---
 ### Where do we start? 
 ---
-@title[Tip! Fullscreen]
 
 ![TIP](template/img/tip.png)
 <br>
