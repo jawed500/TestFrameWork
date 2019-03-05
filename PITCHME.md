@@ -11,9 +11,12 @@
 4. Repeatable and disposable framework
 5. Qaulity in every stage of the pipeline
 ---
+#### Test Scenario: reliability
+![CI Component Test](template/img/Component_Testing.png)
+---
 ![CI Framework](template/img/CI_Framework.png)
 ---
-How develeop test process? 
+How to develeop test process? 
 ---
 ![CI Test Process](template/img/CI_TestProcess.png)
 ---
