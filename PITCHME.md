@@ -1,6 +1,6 @@
 ---
-## Continus ingetration testing
-## API based applications 
+## CI/CD pipeline
+## API based applications testing 
 ---
 ### Where do we start? 
 ---
