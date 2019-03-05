@@ -1,19 +1,8 @@
 ---
-# Continus ingetration testing
-# API based applications 
+## Continus ingetration testing
+## API based applications 
 ---
-Where do we start? 
----
-@title[Slide Markdown]
-
-### Each slide in this presentation is provided as a *template*.
-
-<br><br>
-
-@snap[south span-100 text-purple text-05]
-Reuse the *markdown snippet* for any slide in this template within your own @css[text-gold text-bold](PITCHME.md) files.
-@snapend
-
+### Where do we start? 
 ---
 @title[Tip! Fullscreen]
 
