@@ -16,7 +16,11 @@
 1. A system with 100 components each having 99% reliability, would yield 37% reliable
 2. Would you release?  
 ---
-## How do we ensure 100% 
+### How do we ensure 100% reliability? 
+---
+1. Software application with 100% SLA (or close), you absolutely have to ensure reliability at the lowest level.
+2. If cannot ensure and measure reliability at lowest level, cannot possible do that system level. 
+3. Unit Testing?
 ---
 ![CI Framework](template/img/CI_Framework.png)
 ---
