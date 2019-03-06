@@ -44,7 +44,7 @@ How to develop test process?
 ---
 ![CI Framework Categorise](template/img/CI_Framework_Categorise.png)
 ---
-### Selecting tools, given API based application: 
+##### Selecting tools, given API based application: 
 1. Postman 
 2. Rest-Assured 
 3. Golang
