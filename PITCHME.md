@@ -1,6 +1,6 @@
 ---
 ## CI and CD pipeline
-### API based application testings
+### API based application testing
 ---
 ### Where do we start? 
 ---
