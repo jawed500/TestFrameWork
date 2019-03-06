@@ -28,6 +28,14 @@ How to develop test process?
 ---
 ![CI Test Process](template/img/CI_TestProcess.png)
 ---
+### Test candidate automation? 
+1. Return on Investment
+2. Parameterisation
+3. Complex business logic
+4. Large data
+5. Different sets of users
+6. Data-Driven
+---
 ### Enhancements? 
 1. Tests are part of architectural components
 2. Test Categorisation and structure specially codebase increases
