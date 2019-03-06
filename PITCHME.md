@@ -29,8 +29,10 @@ How to develop test process?
 ![CI Test Process](template/img/CI_TestProcess.png)
 ---
 ### Enhancements? 
-1. Tests part of architectural components
-2. Test Categorisation and structure specially codebase increases 
+1. Tests are part of architectural components
+2. Test Categorisation and structure specially codebase increases
+3. More tests if always run takes longer to complete 
+4. hurdle instead of key to success
 ---
 ![CI Framework Categorise](template/img/CI_Framework_Categorise.png)
 ---
