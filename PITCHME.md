@@ -30,7 +30,7 @@ How to develop test process?
 ---
 ### Test candidate automation? 
 1. Return on Investment
-2. Parameterisation
+2. Test must effectively exercise the use of the components and test must be run often.
 3. Complex business logic
 4. Large data
 5. Different sets of users
