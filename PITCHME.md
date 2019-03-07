@@ -29,8 +29,8 @@ How to develop test process?
 ![CI Test Process](template/img/CI_TestProcess.png)
 ---
 ### Test candidate automation? 
-1. Return on Investment
-2. Test must effectively exercise the use of the components and test must be run often.
+1. Test must effectively exercise the use of the components and test must be run often
+2. Return on Investment 
 3. Complex business logic
 4. Large data
 5. Different sets of users
